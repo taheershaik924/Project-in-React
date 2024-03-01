@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.link-in {
+    display: flex;
+    gap: 15px;
+}
+
+li {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.para-in {
+    text-align: center;
+}
+
+.main-font {
+    margin: 100px;
+}
